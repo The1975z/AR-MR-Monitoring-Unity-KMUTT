@@ -4,7 +4,7 @@
 
 # AR/MR Monitoring Unity KMUTT
 
-![AR/MR Monitoring]([https://rac.thairobotics.org/wp-content/uploads/2023/10/11-1024x576.png](https://rac.thairobotics.org/wp-content/uploads/2023/10/11-1024x576.png))
+![AR/MR Monitoring]([[https://rac.thairobotics.org/wp-content/uploads/2023/10/11-1024x576.png](https://rac.thairobotics.org/wp-content/uploads/2023/10/11-1024x576.png](https://rac.thairobotics.org/wp-content/uploads/2023/10/11-1024x576.png)))
 
 ## ที่มาและความสำคัญ
 **AR/MR Monitoring** เป็นระบบที่นำเทคโนโลยีความจริงเสริม (AR) และความจริงผสม (MR) มาประยุกต์ใช้เพื่อการควบคุมและตรวจสอบเครื่องจักรและกระบวนการในอุตสาหกรรม โดยสามารถทำงานร่วมกับโครงสร้างพื้นฐานของโรงงานได้ เช่น การสตรีมข้อมูลแบบเรียลไทม์จากระบบต่างๆ ไม่ว่าจะเป็น **PLC**, **MES**, **ERP**, **SCADA** หรือระบบบันทึกประวัติข้อมูล รวมถึงข้อมูลจากเครื่องจักรต่างๆ ได้แบบเรียลไทม์ ทำให้การตรวจสอบและการควบคุมสามารถทำได้อย่างสะดวกและมีประสิทธิภาพมากยิ่งขึ้น
